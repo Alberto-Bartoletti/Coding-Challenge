@@ -1,0 +1,63 @@
+body {
+  background-image: url(background.jpg);
+  background-size: 100%;
+}
+
+#box {
+  margin: auto;
+  width: 950px;
+  background-color: rgba(0, 0, 0, 0.5);
+  border-radius: 10px;
+  padding: 1%
+  }
+
+/* LOGO E TITOLO */
+
+header {
+  text-align: center;
+}
+.figura {
+  width: 200px;
+}
+h1 {
+  color: rgb(0, 200, 0);
+}
+
+/* PULSANTI */
+
+nav {
+  background-color: rgb(0, 200, 0);
+  padding: 1%;
+  text-align: center;
+}
+
+/* MONOPATTINI */
+
+.nome {
+  color: white;
+  font-size: 180%;
+}
+p {
+  color: white;
+}
+#carica1 {
+  width: 400px;
+  height: 30px;
+  background-color: coral;
+  display: inline-block;
+  border-radius: 10px;
+}
+#carica2 {
+  width: 600px;
+  height: 30px;
+  background-color: limegreen;
+  display: inline-block;
+  border-radius: 10px;
+}
+#carica3 {
+  width: 200px;
+  height: 30px;
+  background-color: indianred;
+  display: inline-block;
+  border-radius: 10px;
+}
